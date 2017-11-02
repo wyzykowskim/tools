@@ -1,1 +1,1 @@
-console.log('hello');
+const serialport = require('serialport');

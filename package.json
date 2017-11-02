@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/wyzykowskim/tools/issues"
   },
-  "homepage": "https://github.com/wyzykowskim/tools#readme"
+  "homepage": "https://github.com/wyzykowskim/tools#readme",
+  "dependencies": {
+    "serialport": "^6.0.4"
+  }
 }
